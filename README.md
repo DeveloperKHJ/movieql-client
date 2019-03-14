@@ -71,3 +71,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 # movieql-client
 Client for the MovieQL API built with Apollo
 >>>>>>> b86c83a88e261dbc2e568d64d25b901b31e5a294
+
